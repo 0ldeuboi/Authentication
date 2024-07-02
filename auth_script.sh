@@ -8,4 +8,4 @@ echo
 export GITHUB_TOKEN="$github_token"
 
 # Call the starter script
-source <(curl -s -H "Authorization: token $github_token" "https://raw.githubusercontent.com/0ldeuboi/linux-os-scripts/main/automation/setup_script.sh)"
+source <(curl -s -H "Authorization: token $github_token" "https://raw.githubusercontent.com/0ldeuboi/linux-os-scripts/main/automation/setup_script.sh")
